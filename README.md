@@ -1,5 +1,7 @@
 # Project-Milestone-IGR204  
 
+You can view and interact with our visualizations [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/IGR204-Visualisation/Project-Milestone-IGR204/main/Data_visualisation/Notebook_viz_v4.html).
+
 Team Members : 
 - BINUANI Nicolas (nbinuani)
 - CALVET Rodolphe (RodolpheCalvet)
