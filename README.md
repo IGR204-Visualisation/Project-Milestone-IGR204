@@ -12,7 +12,7 @@ Team Members :
 ### Objectives
 The goal of this project is to give you some hands-on experience with creating a fully-functional interactive information visualization. This consists of several components: understanding the user of the visualization, what kinds of tasks he or she is trying to perform with the visualization, what is his or her background and expertise, and what kind of data we’re dealing with.
 
-For this project, you will [choose a dataset] (https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) to visualize. Explore the dataset, what attributes it contains, their types, how many cases are in the set, etc. Think about whether you will need to clean it up, complete the data with data from other sources, etc.
+For this project, you will [choose a dataset](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) to visualize. Explore the dataset, what attributes it contains, their types, how many cases are in the set, etc. Think about whether you will need to clean it up, complete the data with data from other sources, etc.
 
 In this project, you will develop a high-quality, interactive visualization that will showcase your own interesting ideas. Be creative. Think about the data and what the user is trying to do with it. Think about appropriate representations. Think about appropriate interactions to transform the data or their representation. Most of all, be creative. And be creative.
 
@@ -21,7 +21,7 @@ This is not a programming project, but it is a project that will involve program
 ## Milestones
 
 ### M0: Group and dataset
-During the first lab or immediately after, you should form your groups of 4–5 people. After the lab, you will [choose a dataset] (https://perso.telecom-paristech.fr/eagan/class/igr204/datasets). We have provided you with a selection of already-available datasets, but you are welcome to propose another dataset on the condition that you get it approved before-hand. (MS BGD students are free to choose to work with their fil-rouge data or may choose a different data set.)
+During the first lab or immediately after, you should form your groups of 4–5 people. After the lab, you will [choose a dataset](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets). We have provided you with a selection of already-available datasets, but you are welcome to propose another dataset on the condition that you get it approved before-hand. (MS BGD students are free to choose to work with their fil-rouge data or may choose a different data set.)
 
 Explore the available datasets, paying attention to how many cases there are, how many variables, and of what types. Think about what these data might encode. Find a dataset that interests you. For any successful project, at least one member of the group should be passionate about the data.
 
