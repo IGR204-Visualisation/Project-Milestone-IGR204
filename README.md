@@ -1,6 +1,11 @@
 # Project-Milestone-IGR204  
 
-Team Members : Nicolas BINUANI, Rodolphe CALVET, Sully DILOU, Delin JIA, Zakaria TIZAF
+Team Members : 
+- BINUANI Nicolas (nbinuani)
+- CALVET Rodolphe (RodolpheCalvet)
+- DILOU Sully (sdilou)
+- JIA Delin (delinjia)
+- TIZAF Zakaria (zakariatizaf)
  
 ### Objectives
 The goal of this project is to give you some hands-on experience with creating a fully-functional interactive information visualization. This consists of several components: understanding the user of the visualization, what kinds of tasks he or she is trying to perform with the visualization, what is his or her background and expertise, and what kind of data we’re dealing with.
